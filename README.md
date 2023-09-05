@@ -1,7 +1,7 @@
 # Portfolio 
 
 # Pranash R
-![Pranash R](https://github.com/PRANASH-R/portfolio/assets/91555193/76dc3c30-f999-408a-9304-3aca7d6c7967)
+
 
 
 # PROFILE
