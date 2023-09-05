@@ -37,14 +37,14 @@ Percentage - 85
 
 # PROJECTS
 
-## Seoul Bike Renting Prediction Using Data Analytics(https://github.com/PRANASH-R/Seoul-Bike-Renting-Prediction-Using-Data-Analytics)
+## Seoul Bike Renting Prediction Using Data Analytics [seoul bike](https://github.com/PRANASH-R/Seoul-Bike-Renting-Prediction-Using-Data-Analytics)
 
 Estimate the optimal bike inventory based on present
 conditions and surroundings. Employ a range of
 algorithms trained on historical data to identify the most
 effective method for achieving the best outcomes.
 
-## Flight Delay Prediction Using Machine Learning(https://github.com/PRANASH-R/Flight-Delay-Prediction-Using-Machine-Learning)
+## Flight Delay Prediction Using Machine Learning [flight delay](https://github.com/PRANASH-R/Flight-Delay-Prediction-Using-Machine-Learning)
 
 Created a predictive model that anticipates flight arrival
 times, enabling passengers to receive timely notifications
@@ -52,7 +52,7 @@ about potential delays. This empowers passengers to
 plan their boarding based on accurate predictions of
 arrival times.
 
-## Multi-Class Brain Diseases Detection Using Deep Learning(https://github.com/PRANASH-R/Multi-class-brain-diseases-detection-using-deep-learning-)
+## Multi-Class Brain Diseases Detection Using Deep Learning [brain diseases](https://github.com/PRANASH-R/Multi-class-brain-diseases-detection-using-deep-learning-)
 
 Devised an advanced CNN model by fusing AlexNet, VGG-
 16, and ResNet-50 architectures to classify MRI images.
