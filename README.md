@@ -1,6 +1,6 @@
 # Portfolio 
 
-![](Images/Pranash R.JPG)
+
 
 
 
@@ -71,7 +71,7 @@ a thorough assessment with substantial datasets, aiding
 clinicians in confirming manual MRI interpretations and
 enabling the early anticipation of diseases.
 
-[paper publish]()
+[paper publish](Images/WhatsApp Image 2023-04-19 at 17.30.55.jpg)
 
 # CERTIFICATES
 
