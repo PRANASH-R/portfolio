@@ -37,7 +37,7 @@ Percentage - 85
 
 # PROJECTS
 
-## Seoul Bike Renting Prediction Using Data Analytics{https://github.com/PRANASH-R/Seoul-Bike-Renting-Prediction-Using-Data-Analytics}
+## Seoul Bike Renting Prediction Using Data Analytics(https://github.com/PRANASH-R/Seoul-Bike-Renting-Prediction-Using-Data-Analytics)
 
 Estimate the optimal bike inventory based on present
 conditions and surroundings. Employ a range of
