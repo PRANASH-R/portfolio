@@ -1,4 +1,6 @@
-# Pranash Portfolio 
+# Portfolio 
+
+# Pranash R
 
 # PROFILE
 
